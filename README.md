@@ -29,7 +29,7 @@
 |`--------[c] queue.cpp`||
 |`--------[c] session.cpp`|Сессия взаимодействия приложения с облаком|
 |`--------[c] slave.cpp`|[Кокаиновый раб](node/slave.md)|
-|`----[c] counter.cpp`|Сервис Counter. Статистика выполнения приложений|
+|`----[c] counter.cpp`|Сервис Counter|
 |`----[c] logging.cpp`|Сервис Logging. Логи|
 |`----[c] node.cpp`|[Сервис Node](node.md)|
 |`----[c] storage.cpp`|Сервис Storage. Работа с хранилищем|
